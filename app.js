@@ -1,5 +1,5 @@
 const root = document.getElementById("root");
-const urlFacebook = "https://www.facebook.com/";
+const urlFacebook = "https://www.facebook.com/van.dung.2511";
 const urlPhone = "0987654321";
 const zalo = "0987654321";
 const contactZalo = [
@@ -22,7 +22,7 @@ const iconContact = [
   {
     display: "Messenger",
     src: "./images/icon-messenger.png",
-    url:"",
+    url: "",
     classbtn: "btn_mess_main",
     classP: "logo_mess_main",
   },

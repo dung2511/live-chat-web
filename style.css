@@ -3,3 +3,6 @@
     bottom: 25px;
     right: 25px;
 }
+.d-flex {
+    display: flex;
+}
